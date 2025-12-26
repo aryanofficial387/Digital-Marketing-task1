@@ -1,6 +1,6 @@
 # Digital-Marketing-task1
 
-**COMPANY**:. CODTECH IT SOLUTIONS 
+**COMPANY**: CODTECH IT SOLUTIONS 
 
 **NAME**: ARYAN KOHLI
 
