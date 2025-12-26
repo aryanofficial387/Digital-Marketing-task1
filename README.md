@@ -25,6 +25,6 @@ The calendar is structured in a professional Excel format, making it easy to und
 
 Overall, this project demonstrates a strategic approach to social media management, content planning, and brand communication within the automobile industry. The 30-day social media post calendar for CarsFusion reflects an understanding of Instagram content dynamics, audience behavior, and effective digital marketing practices. This task highlights skills in content strategy, copywriting, hashtag research, and social media planning.
 
-##OUTPUT
+## OUTPUT
 
 [CarsFusion_30_Day_Social_Media_Calendar.xlsx](https://github.com/user-attachments/files/24349214/CarsFusion_30_Day_Social_Media_Calendar.xlsx)
