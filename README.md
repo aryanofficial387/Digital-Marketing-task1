@@ -1,4 +1,4 @@
-# Digital-Marketing-task1
+# Digital-Marketing-Task1
 
 **COMPANY**: CODTECH IT SOLUTIONS 
 
